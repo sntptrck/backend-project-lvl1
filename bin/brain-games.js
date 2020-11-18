@@ -1,2 +1,3 @@
 #!/usr/bin/env node
-console.log(2)
+import cli from '../src/cli.js';
+cli()
